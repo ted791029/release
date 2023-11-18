@@ -1,0 +1,19 @@
+{
+  "name": "release",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ted791029/release.git"
+  },
+  "author": "ted",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ted791029/release/issues"
+  },
+  "homepage": "https://github.com/ted791029/release#readme"
+}
