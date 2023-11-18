@@ -1,7 +1,7 @@
 {
   "name": "release",
   "version": "1.0.0",
-  "description": "demo",
+  "description": "demo.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
